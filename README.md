@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aruna45920" alt="aruna45920" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **DATA STRUCTURES,ANGULAR**
 
-- 💬 Ask me about **JAVA,MYSQL**
+- 💬 Ask me about **JAVA,MYSQL,HTML,CSS,JAVA SCRIPT**
 
 - 📫 How to reach me **arunakumarinaramreddy@gmail.com**
 
